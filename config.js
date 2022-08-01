@@ -5,11 +5,11 @@ import { fileURLToPath } from 'url'
 //⊱ ━━━━━.⋅ owner/propietario del bot  ⋅.━━━━ ⊰
 global.owner = [
   ['56977774748', 'creador', true],
-  ['972529277406'],
+  ['523330379217'],
   ['50495745934'], //numero del owner
 ]
 //aqui poner los numero premium 
-global.mods = [] 
+global.mods = ['525614298026'] 
 global.prems = ['56950377550'], 
 
 global.APIs = { // API Prefix.
@@ -68,14 +68,14 @@ global.APIKeys = { // APIKey Here
 //⊱ ━━━━━.⋅ Sticker WM ⋅.━━━━ ⊰
 
 global.packname = 'toma tu sticker'
-global.author = '𝑻𝒉𝒆 𝑳𝒐𝒍𝒊𝑩𝒐𝒕-𝑴𝑫'
+global.author = '𝑻𝒉𝒆 AizekBot-𝑴𝑫'
 
 //⊱ ━━━━━.⋅ Versión | Nombre | cuentas ⋅.━━━━ ⊰
 
 global.vs = '1.1.5'
 global.version = vs
 
-global.gt = '𝑻𝒉𝒆 𝑳𝒐𝒍𝒊𝑩𝒐𝒕-𝑴𝑫'
+global.gt = '𝑻𝒉𝒆 AizekBot-𝑴𝑫'
 global.gatabot = gt
 
 global.yt = 'https://youtube.com/channel/UC9b3UIVnVb5eQt7_Y-Qz-3A'
@@ -121,8 +121,8 @@ global.exito = eg
 
 //⊱ ━━━━━.⋅ Información ⋅.━━━━ ⊰
 
-global.wm = '𝑻𝒉𝒆 𝑳𝒐𝒍𝒊𝑩𝒐𝒕-𝑴𝑫'
-global.igfg = 'The Lolibot-MD'
+global.wm = '𝑻𝒉𝒆 AizekBot-𝑴𝑫'
+global.igfg = 'The AizekBot-MD'
 global.wait = '*⌛ _Cargando..._ ▬▬▬▭*'
 
 //━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
